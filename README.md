@@ -1,2 +1,4 @@
 # BiRo-Koopman
- Estimating Linear and Bilinear models for BiRo biped using Koopman theory
+
+References
+- https://arxiv.org/abs/2405.09101 
